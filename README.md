@@ -1,1 +1,1 @@
-This is Snoven's first git porject!
+This is Snoven's first git project!
